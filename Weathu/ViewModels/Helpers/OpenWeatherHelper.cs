@@ -8,7 +8,7 @@ namespace WeatherApp.ViewModels.Helpers
     class OpenWeatherHelper
     {
         private const string BASE_URL = "http://api.openweathermap.org";
-        private const string API_KEY = "c924be429d47dffe614dee1d81940181";
+        private const string API_KEY = "<API_KEY>";
 
         public static async Task<OpenWeatherResponse> GetCurrentWeather(string cityName)
         {
