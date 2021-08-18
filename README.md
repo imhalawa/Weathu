@@ -8,4 +8,6 @@ A Weather app I've built using WPF and .NET Core 5.0 by integrating with Open We
 
 
 ## Screen Shot
-![weathu app screenshot](screenshot.png)
+<p align="center">
+  <img src="https://github.com/thecodingcod/Weathu/blob/main/screenshot.png" />
+</p>
