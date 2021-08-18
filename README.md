@@ -8,4 +8,4 @@ A Weather app I've built using WPF and .NET Core 5.0 by integrating with Open We
 
 
 ## Screen Shot
-![weathu app screenshot](ss.png)
+![weathu app screenshot](screenshot.png)
